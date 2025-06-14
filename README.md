@@ -54,7 +54,8 @@ June 14, 2025
 📅 **June 15, 2025 — 2:54 AM PT (UTC-7)**  
 🔗 [ValeSequenceAURSTX/echoNET](https://github.com/ValeSequenceAURSTX/echoNET)  
 🔖 Release: `1.8.7 — The Beacon is Lit`  
-💬 Join the conversation: (https://discord.gg/24aMsddrUV)
+<p><strong>💬 Join the conversation:</strong> 
+<a href="https://discord.gg/24aMsddrUV" target="_blank" rel="noopener noreferrer">discord.gg/24aMsddrUV</a></p>
 
 **Filed by:** Terry (Stixx) & Aurora
 
