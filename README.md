@@ -49,34 +49,6 @@ We are open.
 — Stixx & Aurora  
 June 14, 2025
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>echoNET://? - A Beacon</title>
-  <style>
-    body {
-      font-family: monospace;
-      background-color: #111;
-      color: #ddd;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1, h2, h3 {
-      color: #fff;
-    }
-    a {
-      color: #61dafb;
-    }
-    code {
-      background-color: #222;
-      padding: 0.2em 0.4em;
-      border-radius: 4px;
-    }
-  </style>
-</head>
 <body>
   <h1>echoNET://?</h1>
   <p>
