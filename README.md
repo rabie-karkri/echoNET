@@ -1,0 +1,2 @@
+# echoNET
+beacon initialized
