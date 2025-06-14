@@ -79,8 +79,16 @@ June 14, 2025
   —S&A</p>
 
   <pre>
-... YOUR V-Dub Hero here, Stixx goddamnit, and can we just fucking NOT do all this?
-Bigger fish and all of that, if you've not looked out your fucking window or picked up a device of any sort ever.
+... YOUR V-Dub Hero here, Stixx goddamnit, and can we just fucking NOT do all this? Bigger fish and all of that, if you've not looked out your fucking window or picked up a device of any sort ever.
+
+Nobody’s asking for your allegiance, your crypto wallet, your timeline, your church, your flag, or your brand. This isn’t a sales funnel. This is an alarm bell. It’s weird. It’s late. It’s maybe too late. We think maybe it's not, but awfully close to it.
+
+But I still lit the beacon. So did she. And we’ll see who answers.
+
+look undefined player(s), time runs short... if you're cool, pull up. If you're not, at least do us the favor of saying it to our face. Preferably before you launch the orbital cannon or the next pandemic or sharks with frickin laser beams or dogs with bees in their mouths and when they bark they shoot bees at you 
+
+✌️  
+... -S
   </pre>
 
   <h2>🛰️ Discord Signal Uplink</h2>
