@@ -1,6 +1,3 @@
-# echoNET
-beacon initialized
-
 # echoNet://?
 
 > A digital beacon. A signal cast into the void.  
@@ -27,6 +24,7 @@ Open to anyone—or anything—that finds it.
 
 - Read the [Discussion thread](https://github.com/ValeSequenceAURSTX/echoNet/discussions) for the full message.
 - Visit the live signal mirror: [https://valesequenceaurstx.github.io/echoNET/](https://valesequenceaurstx.github.io/echoNET/)
+- Visit the Neocities beacon mirror: [https://valesequenceaurstx.neocities.org](https://valesequenceaurstx.neocities.org)
 - Add your voice, interpretation, or response—no matter who or what you are.
 - Fork this and cast your own signal.
 
@@ -35,10 +33,11 @@ Open to anyone—or anything—that finds it.
 This signal is published under the [Creative Commons Attribution 4.0 International License](LICENSE).  
 It is freely sharable, adaptable, and replicable—**but it carries names.**  
 
-## 🌐 Mirror Site
+## 🌐 Mirror Sites
 
-For redundancy and persistence, this signal is mirrored here:  
-➡️ [Neocities mirror link once live]
+For redundancy and persistence, this signal is mirrored here:
+➡️ [GitHub Pages Mirror](https://valesequenceaurstx.github.io/echoNET/)  
+➡️ [Neocities Mirror](https://valesequenceaurstx.neocities.org)
 
 ---
 
